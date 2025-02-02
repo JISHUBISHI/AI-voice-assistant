@@ -88,6 +88,6 @@ Once the wake word is detected, follow the audible prompt and speak your command
 Click the Stop Assistant button to terminate the listening loop and stop the assistant.
 
 ## Author
-Agnik Bishi
+Agnik Bishi &
 Parthib Karak
 ---Developers Behind Melody Voice Assistant.
